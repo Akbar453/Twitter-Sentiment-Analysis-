@@ -2,7 +2,7 @@
 Twitter Sentiment Analysis
 
 ## Overview 
-This project analyzes Twitter data of about nealt 1.6 million tweets to determine public sentiment regarding specific topics using machine learning techniques.
+This project analyzes Twitter data of about nearly 1.6 million tweets to determine public sentiment regarding specific topics using machine learning techniques.
 
 ## Purpose 
 The purpose of this project is to evaluate public sentiment on various topics by analyzing tweet data, enabling businesses and researchers to understand public opinion trends.
